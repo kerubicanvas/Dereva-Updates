@@ -1,0 +1,98 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  margin:0;
+  background-color: beige;
+  line-height: 1.5em;
+}
+
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+
+
+main{
+  
+}
+
+.welcome-section{
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 55px;
+  
+}
+
+.terms-section{
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 55px ;
+}
+
+.privacy-section{
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 55px ;
+}
+.premium-terms-section{
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 55px ;
+}
+
+.screen-shot{
+  height: 300px;
+}
+
+.google-play-download{
+  height: 100px;
+}
+
+@media (max-width:480px) {
+body{
+  font-size: 0.95em;
+
+
+}
+
+  .screen-shot{
+    height: 185px;    
+  }
+
+  .screen-shot-container{
+    align-items: center;
+  }
+
+  .google-play-download{
+    height:70px;
+  }
+
+  .welcome-section{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 55px;
+    
+  }
+  
+  .terms-section{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 55px ;
+  }
+  
+  .privacy-section{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 55px ;
+  }
+  .premium-terms-section{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 55px ;
+  }
+  
+
+}
+
+ 
